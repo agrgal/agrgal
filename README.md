@@ -1,4 +1,13 @@
-### Hi there 👋
+### Bienvenidos/as a mi sitio en github
+
+## Quién soy
+
+Licenciado en Ciencias Físicas (Junio 1995), especialidad Electrónica, Universidad de Sevilla. PES Tecnología en Institutos desde el año 1996. Funcionario de carrera desde el año 2002. Los cursos de especialización a los que suelo apuntarme versan sobre tecnologías, TIC, y su aplicación en el aula. Además, tengo experiencia como ponente en cursos de formación a profesores/as. 
+
+## Qué me gusta y de qué va mi github
+
+Normalmente incluyo en este sitio mis proyectos, que van desde la electrónica recreativa con Arduino y últimamente dispositivos IoT como ESP32 o ESP8266 a diseños con freecad o temas de programación. 
+
 
 <!--
 **agrgal/agrgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
