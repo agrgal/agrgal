@@ -8,6 +8,7 @@ Licenciado en Ciencias Físicas (Junio 1995), especialidad Electrónica, Univers
 
 Normalmente incluyo en este sitio mis proyectos, que van desde la electrónica recreativa con Arduino y últimamente dispositivos IoT como ESP32 o ESP8266 a diseños con freecad o temas de programación. 
 
+## Otros
 
 <!--
 **agrgal/agrgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
